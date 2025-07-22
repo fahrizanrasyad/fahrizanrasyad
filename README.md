@@ -11,7 +11,7 @@
 ###
 
 <p align="left"> 
-  • Working on: Data storytelling, stakeholder communication & probability <br>
+  • Working on: Data storytelling, sampling & probability <br>
   • Brief Background: I started my career in Production & Maintenance, where I gained insight into supply chain operations—experience that now helps me make sense of data and translate it into accessible insights </p>
 
 ###
